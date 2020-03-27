@@ -3,6 +3,7 @@
 Reads files and tracks words for count and occurrences in lines and files.
 
 **How to run**
+
 Print top 10 interesting words
 ```
 python task.py
